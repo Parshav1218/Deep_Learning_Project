@@ -20,24 +20,32 @@ This project builds a **Deep Learning model using LSTM + Embeddings** to predict
 
 ## 📂 Repository Structure
 
-├── data/
-│ ├── flights.csv
-│ ├── airlines.csv
-│ ├── airports.csv
-├── models/
-│ ├── best_lstm_airline.pt
-├── notebooks/
-│ ├── Airline_Delay_Training.ipynb
-├── results/
-│ ├── loss_curve.png
-│ ├── accuracy_curve.png
-│ ├── confusion_matrix.png
-│ ├── roc_curve.png
-├── docs/
-│ ├── Final_Report.docx
-│ ├── Presentation.pptx
-│ ├── Literature_Survey.pdf
+├📂 Repository Structure
+│
+├── 📁 data/
+│   ├── flights.csv
+│   ├── airlines.csv
+│   └── airports.csv
+│
+├── 📁 models/
+│   └── best_lstm_airline.pt
+│
+├── 📁 notebooks/
+│   └── Airline_Delay_Training.ipynb
+│
+├── 📁 results/
+│   ├── loss_curve.png
+│   ├── accuracy_curve.png
+│   ├── confusion_matrix.png
+│   └── roc_curve.png
+│
+├── 📁 docs/
+│   ├── Final_Report.docx
+│   ├── Presentation.pptx
+│   └── Literature_Survey.pdf
+│
 └── README.md
+
 ---
 
 ## 📊 Dataset Used
