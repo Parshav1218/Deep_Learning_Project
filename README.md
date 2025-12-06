@@ -90,8 +90,8 @@ Optimizer → Adam
 
 ### 1. Clone the Repository
 ``bash
-git clone https://github.com/<username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/<Parshav1218>/<Deep_Learning_Project>.git
+cd <Deep_Learning_Project>
 ``
 ### 2. Install Dependencies
 ``
