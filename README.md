@@ -98,9 +98,9 @@ cd <Deep_Learning_Project>
 pip install -r requirements.txt
 ``
 ### 3. Add Dataset
-  flights.csv  
-  airlines.csv  
-  airports.csv 
+  - flights.csv  
+  - airlines.csv  
+  - airports.csv 
 
 ### 4. Train / Evaluate Model
 Run the notebook:
@@ -123,10 +123,10 @@ notebooks/Airline_Delay_Training.ipynb
 📄 Final Report → /docs/Final_Report.docx
 
 ### 🔮 Future Improvements
-Add weather + airport congestion data  
-Try transformer or attention-based models  
-Deploy model as real‑time API  
-Improve class imbalance handling  
+- Add weather + airport congestion data  
+- Try transformer or attention-based models  
+- Deploy model as real‑time API  
+- Improve class imbalance handling  
 
 ### 👥 Contributors
 Parshav Goyal (102215200)  
