@@ -58,7 +58,7 @@ This project builds a **Deep Learning model using LSTM + Embeddings** to predict
 - Date components (month, day, weekday)
 
 ### Target variable:
-1 → Delayed (> 15 minutes)
+1 → Delayed (> 15 minutes)      
 0 → On‑time
 
 ---
