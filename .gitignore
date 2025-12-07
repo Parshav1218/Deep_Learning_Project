@@ -1,0 +1,66 @@
+# ----------------------------
+# Python Cache / Temporary Files
+# ----------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints/
+# ----------------------------
+# IDE / Editor Files
+# ----------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+# ----------------------------
+# OS / System files
+# ----------------------------
+.DS_Store
+Thumbs.db
+# ----------------------------
+# Virtual environment folders
+# ----------------------------
+venv/
+env/
+.venv/
+# ----------------------------
+# Model Artifacts / Logs
+# ----------------------------
+!models/best_lstm_airline.pt
+*.pth
+*.h5
+*.ckpt
+*.pkl
+*.joblib
+*.pickle
+# ----------------------------
+# Temporary output / logs
+# ----------------------------
+outputs/
+logs/
+temp/
+*.log
+# ----------------------------
+# Large datasets (you shouldn't upload raw data)
+# ----------------------------
+data/
+*.csv
+*.zip
+*.tar
+*.gz
+# ----------------------------
+# Jupyter temporary files
+# ----------------------------
+*.ipynb_checkpoints/
+# ----------------------------
+# Generated images/results
+# ----------------------------
+!results/*.png
+results/*.jpg
+results/*.jpeg
+results/*.svg
+# ----------------------------
+# Colab-specific temp files
+# ----------------------------
+*._colabbackup*
